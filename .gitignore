@@ -39,6 +39,8 @@ Thumbs.db
 
 # Data files (if you want to exclude them)
 # *.csv
+data/raw/*.csv
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
