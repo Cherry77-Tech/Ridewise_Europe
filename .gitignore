@@ -57,3 +57,5 @@ data/processed/*.csv
 # Seed data (not pushed to repo)
 seed_data.py
 
+# MLflow tracking
+mlruns/
